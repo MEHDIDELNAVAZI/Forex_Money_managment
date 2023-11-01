@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+table {
+  margin: auto;
+}
+th {
+  background-color: gray;
+  padding: 10px;
+}
+tr {
+  border: solid black 1px;
+  align-items: center;
+}
+td {
+  border: solid black 1px;
+  padding: 5px;
+}
+
+input {
+  text-align: center;
+}
